@@ -3,7 +3,8 @@
 
   <div id="nav">
     <router-link to="/">Home</router-link> |
-    <router-link to="/memory">Memory</router-link> |
+    <router-link to="/memory">M1</router-link> |
+    <router-link to="/memory2">M2</router-link> |
     <a href="https://sdwh.dev" target="_blank">sdwh.dev</a>
   </div>
   <hr />
